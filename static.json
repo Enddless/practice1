@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "iv_diana",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+
+}
